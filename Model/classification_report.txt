@@ -1,0 +1,244 @@
+Test Accuracy: 0.5437
+
+                                  precision    recall  f1-score   support
+
+             Acridotheres fuscus       0.25      0.50      0.33        10
+       Acrocephalus bistrigiceps       1.00      1.00      1.00         1
+              Aethopyga gouldiae       0.20      0.75      0.32         4
+                 Alcippe cinerea       0.22      0.43      0.29        14
+               Andean Guan_sound       0.65      0.61      0.63        18
+            Andean Tinamou_sound       0.55      0.61      0.58        18
+              Arachnothera magna       0.18      0.43      0.25         7
+           Arborophila torqueola       0.67      0.50      0.57        20
+              Argya longirostris       0.64      1.00      0.78         7
+                     Ashy_Prinia       0.58      0.88      0.70         8
+                      Asian_Koel       0.33      0.79      0.47        14
+    Australian Brushturkey_sound       0.43      0.76      0.55        17
+          Band-tailed Guan_sound       0.78      1.00      0.88        18
+            Barred Tinamou_sound       0.50      0.50      0.50         2
+         Bartletts Tinamou_sound       0.81      0.72      0.76        18
+                Baudo Guan_sound       0.89      1.00      0.94         8
+              Bearded Guan_sound       0.92      0.69      0.79        16
+        Berlepschs Tinamou_sound       0.42      0.62      0.50         8
+            Biak Scrubfowl_sound       0.57      0.80      0.67         5
+             Black Tinamou_sound       0.56      0.83      0.67        12
+  Black-billed Brushturkey_sound       0.62      0.42      0.50        12
+      Black-capped Tinamou_sound       0.56      0.83      0.67        18
+ Black-fronted Piping Guan_sound       0.64      1.00      0.78         7
+                     Black_Stilt       0.75      0.75      0.75         8
+ Blue-throated Piping Guan_sound       0.73      0.61      0.67        18
+         Brazilian Tinamou_sound       0.64      0.78      0.70        18
+             Brown Tinamou_sound       0.79      0.61      0.69        18
+         Brushland Tinamou_sound       0.75      0.94      0.83        16
+    Buff-browed Chachalaca_sound       0.67      0.67      0.67         6
+                          Bulbul       0.67      0.50      0.57         4
+                       Bush_Lark       1.00      1.00      1.00         4
+                Cauca Guan_sound       0.94      0.94      0.94        18
+          Centropus andamanensis       0.53      0.90      0.67        10
+          Chaco Chachalaca_sound       1.00      0.94      0.97        18
+        Chelidorhynx hypoxanthus       0.30      0.80      0.43        10
+     Chestnut-bellied Guan_sound       0.88      1.00      0.93         7
+Chestnut-headed Chachalaca_sound       0.40      1.00      0.57         2
+Chestnut-winged Chachalaca_sound       0.94      0.83      0.88        18
+           Chilean Tinamou_sound       0.25      0.71      0.37         7
+                      Chloropsis       0.44      0.62      0.52        13
+      Chloropsis cochinchinensis       0.25      1.00      0.40         1
+              Chloropsis jerdoni       0.42      0.62      0.50         8
+             Choco Tinamou_sound       0.29      0.50      0.36         4
+          Chrysococcyx maculatus       0.25      1.00      0.40         1
+         Cinereous Tinamou_sound       0.79      0.83      0.81        18
+      Collared Brushturkey_sound       0.92      1.00      0.96        12
+                   Collared_Dove       1.00      0.89      0.94         9
+      Colombian Chachalaca_sound       1.00      0.89      0.94        18
+            Common Ostrich_sound       0.38      0.75      0.50         4
+              Crested Guan_sound       0.74      0.78      0.76        18
+             Cuculus micropterus       0.72      0.72      0.72        40
+      Curve-billed Tinamou_sound       0.56      1.00      0.71         5
+               Cyornis concretus       1.00      1.00      1.00         2
+            Cyornis magnirostris       0.57      0.80      0.67         5
+              Cyornis poliogenys       0.56      0.82      0.67        17
+                Cyornis unicolor       0.50      0.82      0.62        17
+           Cypsiurus balasiensis       0.50      1.00      0.67         5
+           Darwins Nothura_sound       0.62      0.91      0.74        11
+            Dicaeum chrysorrheum       0.25      0.50      0.33         2
+              Dicaeum cruentatum       1.00      0.20      0.33         5
+                Dicaeum minullum       0.33      1.00      0.50         4
+           Dicrurus andamanensis       0.39      0.75      0.51        12
+            Dusky Megapode_sound       0.58      0.39      0.47        18
+         Dusky-legged Guan_sound       0.75      0.83      0.79        18
+           Dwarf Cassowary_sound       1.00      1.00      1.00         1
+             Dwarf Tinamou_sound       0.65      0.83      0.73        18
+ East Brazilian Chachalaca_sound       1.00      0.92      0.96        13
+   Elegant Crested Tinamou_sound       0.57      1.00      0.73         8
+                       Emu_sound       0.14      0.60      0.23        10
+           Eurystomus orientalis       0.50      1.00      0.67         3
+                         Gadwall       0.69      1.00      0.82         9
+           Glaucidium cuculoides       0.57      0.64      0.60        25
+        Great Spotted Kiwi_sound       0.06      0.50      0.10         4
+             Great Tinamou_sound       0.50      0.83      0.62        18
+              Greater Rhea_sound       0.75      0.64      0.69        14
+              Grey Tinamou_sound       0.88      0.78      0.82        18
+    Grey-headed Chachalaca_sound       0.83      0.83      0.83        18
+       Grey-legged Tinamou_sound       0.44      0.57      0.50         7
+                   Ground_Thrush       0.33      1.00      0.50         2
+               Halcyon coromanda       0.57      0.80      0.67         5
+          Highland Tinamou_sound       0.77      0.94      0.85        18
+            Hooded Tinamou_sound       0.47      0.78      0.58         9
+            Huayco Tinamou_sound       0.36      0.83      0.50         6
+                    Indian_Mayna       0.64      0.78      0.70         9
+                Iole cacharensis       1.00      0.75      0.86         4
+          Ixobrychus cinnamomeus       0.50      1.00      0.67         2
+                      Kingfisher       0.69      1.00      0.82         9
+              Lanius tephronotus       0.67      0.67      0.67         3
+                         Lapwing       0.39      0.90      0.55        10
+            Lesser Nothura_sound       0.67      0.67      0.67         6
+               Lesser Rhea_sound       0.14      0.50      0.22         2
+             Liocichla phoenicea       0.33      0.43      0.38        14
+         Little Chachalaca_sound       0.94      0.83      0.88        18
+       Little Spotted Kiwi_sound       0.29      0.50      0.36         4
+            Little Tinamou_sound       0.89      0.89      0.89        18
+               Locustella davidi       0.67      0.80      0.73         5
+              Loriculus vernalis       0.56      0.50      0.53        20
+                Macronus gularis       0.56      0.71      0.62        14
+                     Maleo_sound       0.44      1.00      0.62         4
+                Malleefowl_sound       0.43      0.60      0.50         5
+               Marail Guan_sound       0.77      1.00      0.87        10
+       Melanesian Megapode_sound       1.00      0.29      0.44         7
+      Micronesian Megapode_sound       1.00      0.75      0.86         4
+         Moluccan Megapode_sound       0.50      0.25      0.33         4
+              Motacilla citreola       0.30      0.73      0.42        11
+                 Mystery mystery       0.67      0.05      0.10       266
+      New Guinea Scrubfowl_sound       1.00      1.00      1.00         4
+          Nicobar Megapode_sound       0.25      1.00      0.40         1
+                     Nightangale       0.60      1.00      0.75         9
+   North Island Brown Kiwi_sound       0.85      1.00      0.92        11
+        Northern Cassowary_sound       0.20      0.25      0.22         4
+              Okarito Kiwi_sound       1.00      0.67      0.80         3
+   Orange-footed Scrubfowl_sound       0.56      0.78      0.65        18
+            Ornate Tinamou_sound       0.50      0.57      0.53         7
+                             Owl       0.64      0.59      0.62        27
+       Pale-browed Tinamou_sound       0.83      0.83      0.83        18
+      Paradoxornis guttaticollis       0.33      0.50      0.40         2
+        Patagonian Tinamou_sound       0.00      0.00      0.00         1
+             Pellorneum ruficeps       0.54      0.25      0.34        61
+       Philippine Megapode_sound       0.89      0.73      0.80        11
+           Phylloscopus forresti       0.33      0.50      0.40         4
+          Phylloscopus inornatus       0.58      1.00      0.74         7
+         Phylloscopus subaffinis       0.20      1.00      0.33         1
+          Plain Chachalaca_sound       0.68      0.83      0.75        18
+            Pluvialis squatarola       0.33      0.50      0.40         4
+                Pnoepyga pusilla       0.42      0.76      0.54        17
+       Polyplectron bicalcaratum       0.56      0.71      0.62         7
+         Pomatorhinus ruficollis       0.78      0.72      0.75        25
+             Psilopogon lineatus       0.55      0.85      0.67        13
+             Psittacula eupatria       0.44      0.82      0.57        17
+              Puna Tinamou_sound       0.60      0.43      0.50         7
+ Quebracho Crested Tinamou_sound       0.40      0.67      0.50         6
+    Red-billed Brushturkey_sound       0.50      0.75      0.60         4
+            Red-faced Guan_sound       1.00      1.00      1.00        14
+        Red-legged Tinamou_sound       0.74      0.78      0.76        18
+  Red-throated Piping Guan_sound       0.69      1.00      0.82         9
+        Red-winged Tinamou_sound       0.84      0.89      0.86        18
+                    Reed_Warbler       1.00      0.60      0.75         5
+            Rimator malacoptilus       0.50      0.83      0.62        12
+               Riparia chinensis       0.50      1.00      0.67         4
+                           Robin       0.75      1.00      0.86         6
+ Rufous-bellied Chachalaca_sound       0.71      0.67      0.69        18
+  Rufous-headed Chachalaca_sound       1.00      0.67      0.80        18
+  Rufous-vented Chachalaca_sound       0.75      1.00      0.86        18
+                  Rufous_Treepie       0.13      1.00      0.23         4
+             Rusty Tinamou_sound       0.75      0.75      0.75         8
+       Rusty-margined Guan_sound       0.89      0.94      0.92        18
+         Scaled Chachalaca_sound       0.77      1.00      0.87        10
+    Slaty-breasted Tinamou_sound       0.94      0.88      0.91        17
+      Small-billed Tinamou_sound       0.74      0.94      0.83        18
+          Solitary Tinamou_sound       0.75      0.67      0.71        18
+            Somali Ostrich_sound       1.00      1.00      1.00         1
+       Southern Brown Kiwi_sound       0.40      1.00      0.57         2
+        Southern Cassowary_sound       0.44      0.64      0.52        11
+                         Sparrow       0.90      1.00      0.95         9
+       Speckled Chachalaca_sound       0.86      1.00      0.92        18
+              Spelaeornis oatesi       0.75      1.00      0.86         3
+              Sphenocichla humei       0.50      0.42      0.46        26
+                Spixs Guan_sound       1.00      0.83      0.91        18
+           Spotted Nothura_sound       0.32      0.71      0.44        17
+          Stachyridopsis ambigua       0.46      0.67      0.55         9
+              Sturnia malabarica       0.69      0.82      0.75        11
+             Sula Megapode_sound       0.75      1.00      0.86         3
+      Taczanowskis Tinamou_sound       0.25      0.75      0.38         4
+         Tanimbar Megapode_sound       0.00      0.00      0.00         1
+           Tataupa Tinamou_sound       0.88      0.83      0.86        18
+    Tawny-breasted Tinamou_sound       0.68      0.83      0.75        18
+             Tepui Tinamou_sound       0.50      1.00      0.67         1
+           Thicket Tinamou_sound       0.68      0.83      0.75        18
+             Todiramphus chloris       0.45      0.71      0.56        14
+           Tongan Megapode_sound       0.70      0.88      0.78         8
+      Trinidad Piping Guan_sound       1.00      1.00      1.00         1
+         Undulated Tinamou_sound       0.84      0.89      0.86        18
+          Vanuatu Megapode_sound       0.67      1.00      0.80         2
+        Variegated Tinamou_sound       0.71      0.67      0.69        18
+                       Water_Hen       0.78      1.00      0.88         7
+       Wattled Brushturkey_sound       0.10      0.50      0.17         2
+   West Mexican Chachalaca_sound       0.89      0.94      0.92        18
+  White-bellied Chachalaca_sound       1.00      0.82      0.90        11
+     White-bellied Nothura_sound       0.93      0.72      0.81        18
+         White-browed Guan_sound       1.00      1.00      1.00         2
+        White-crested Guan_sound       0.88      1.00      0.93         7
+    White-throated Tinamou_sound       0.89      0.89      0.89        18
+         White-winged Guan_sound       1.00      1.00      1.00        12
+     Yellow-legged Tinamou_sound       0.86      0.67      0.75        18
+                          norcar       0.50      0.27      0.35        60
+                          norfli       0.65      0.22      0.33        60
+                         norhar2       0.24      0.53      0.33        17
+                          normoc       0.52      0.27      0.35        60
+                          norpar       0.41      0.42      0.41        60
+                          norpin       0.42      0.35      0.38        23
+                          norsho       0.55      0.69      0.61        39
+                          norwat       0.45      0.40      0.42        60
+                          nrwswa       0.31      0.61      0.41        18
+                          nutwoo       0.20      0.33      0.25        27
+                          olsfly       0.41      0.40      0.41        60
+                          orcwar       0.39      0.37      0.38        60
+                          osprey       0.45      0.17      0.24        60
+                         ovenbi1       0.61      0.47      0.53        60
+                          palwar       0.29      0.50      0.37        28
+                          pasfly       0.43      0.63      0.51        60
+                          pecsan       0.47      0.38      0.42        40
+                          perfal       0.79      0.32      0.45        60
+                          phaino       0.52      0.47      0.49        36
+                          pibgre       0.72      0.43      0.54        60
+                          pilwoo       0.62      0.47      0.53        60
+                          pingro       0.33      0.25      0.28        56
+                          pinjay       0.50      0.84      0.63        31
+                          pinsis       0.39      0.30      0.34        60
+                          pinwar       0.34      0.27      0.30        60
+                          plsvir       0.45      0.47      0.46        55
+                          prawar       0.34      0.33      0.34        42
+                          purfin       0.42      0.32      0.36        60
+                          pygnut       0.37      0.31      0.33        36
+                          rebmer       0.59      0.76      0.67        17
+                          rebnut       0.61      0.50      0.55        60
+                          rebsap       0.42      0.42      0.42        19
+                          rebwoo       0.42      0.47      0.44        60
+                          redcro       0.48      0.48      0.48        60
+                          redhea       0.83      1.00      0.91         5
+                         reevir1       0.59      0.48      0.53        60
+                          renpha       0.68      0.42      0.52        45
+                          reshaw       0.64      0.64      0.64        44
+                          rethaw       0.55      0.30      0.39        56
+                          rewbla       0.53      0.17      0.25        60
+                          ribgul       0.61      0.47      0.54        40
+                          rinduc       0.62      0.53      0.57        15
+                          robgro       0.38      0.33      0.36        60
+                          rocpig       0.75      0.77      0.76        60
+                          rocwre       0.49      0.38      0.43        47
+                          rthhum       0.29      0.47      0.36        19
+                          ruckin       0.48      0.18      0.27        60
+                          rudduc       0.58      0.79      0.67        14
+                          rufgro       0.22      0.57      0.31        14
+                          rufhum       0.66      0.58      0.62        36
+                          rusbla       0.45      0.50      0.47        34
+
+                        accuracy                           0.54      4561
+                       macro avg       0.60      0.70      0.62      4561
+                    weighted avg       0.59      0.54      0.53      4561

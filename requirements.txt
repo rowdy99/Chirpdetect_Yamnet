@@ -1,0 +1,9 @@
+streamlit
+tensorflow>=2.10
+tensorflow-hub
+librosa
+numpy
+matplotlib
+scikit-learn
+opencv-python
+soundfile

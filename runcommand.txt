@@ -1,0 +1,5 @@
+cd D:\Chirpdetect_Yamnet
+.\.venv\Scripts\activate
+python train_model.py
+python evaluate.py
+streamlit run main.py
